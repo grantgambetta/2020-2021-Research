@@ -6,3 +6,6 @@ Current Data Sources
   - California COVID-19 re-opening plan: https://covid19.ca.gov/safer-economy/
   - California Population Data: https://worldpopulationreview.com/us-counties/states/ca
   - California Open Data: https://data.ca.gov/dataset/covid-19-cases
+
+Models used so far
+  - Vector Autoregression (statsmodels)
