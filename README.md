@@ -1,4 +1,4 @@
-# 2020-2021-Research
+# Time Series Analysis of COVID-19
 
 Current Data Sources
   - COVID Tracking Project: https://covidtracking.com/data/state/california
