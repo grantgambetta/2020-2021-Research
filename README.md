@@ -9,3 +9,4 @@ Current Data Sources
 
 Models used so far
   - Vector Autoregression (statsmodels)
+  - ARIMA (statsmodels)
